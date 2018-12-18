@@ -1,4 +1,4 @@
-rubocop:disable  Metrics/ModuleLength
+#rubocop:disable  Metrics/ModuleLength
 
 require 'bigdecimal'
 
@@ -907,3 +907,4 @@ module AnnotateModels
    end
  end
 end
+#rubocop:enable  Metrics/ModuleLength
